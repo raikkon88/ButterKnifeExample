@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lists</string>
+
+
+    <string name="main_btn_seguent">Següent</string>
+    <string name="main_btn_anterior">Anterior</string>
+
+</resources>
